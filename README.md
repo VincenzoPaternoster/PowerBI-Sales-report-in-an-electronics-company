@@ -3,7 +3,7 @@ TechMarket requires  to implement a reporting system that processes sales data a
 
 ## 📂 Repository Structure
 ```
-E-commerce-sales-analysis/
+Sales-report-in-an-electronics-company/
 │── data/
       ├── Dati
       ├── Dati Negozi
